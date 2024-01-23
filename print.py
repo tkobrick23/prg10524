@@ -1,0 +1,13 @@
+print("\n\n\n\n")
+print("meri")
+print("there is no such thing as overkill", end = ")
+print("there is only just enough to kill.")
+print("!"* 8)
+print("*"* 42)
+print()
+
+print("Knock, knock.")  
+print("Who's there?")  
+print("Olive.")  
+print("Olive who?")  
+print("Olive your jokes are bad!")  
